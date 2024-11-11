@@ -1,0 +1,75 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site – Default</title>
+    <link>http://localhost:1313/default/</link>
+    <description>Recent content in Default on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2024 22:49:53 +0100</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/default/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Impressum2</title>
+      <link>http://localhost:1313/default/legal/impressum2/</link>
+      <pubDate>Mon, 11 Nov 2024 23:07:07 +0100</pubDate>
+      
+      <guid>http://localhost:1313/default/legal/impressum2/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/default/legal/impressum/</link>
+      <pubDate>Mon, 11 Nov 2024 22:50:53 +0100</pubDate>
+      
+      <guid>http://localhost:1313/default/legal/impressum/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Angaben gemäß § 5 TMG&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marcel Ndrecaj&lt;br&gt;
+Rubihornweg 24&lt;br&gt;
+87508 Immenstadt&lt;br&gt;
+Deutschland&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kontakt&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Telefon: +49 179 1082726&lt;br&gt;
+E-Mail: &lt;a href=&#34;mailto:marcel.ndrecaj@web.de&#34; &gt;marcel.ndrecaj@web.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Marcel Ndrecaj&lt;br&gt;
+Rubihornweg 24&lt;br&gt;
+87508 Immenstadt&lt;br&gt;
+Deutschland&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Haftungsausschluss&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Haftung für Inhalte&lt;/strong&gt;&lt;br&gt;
+Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.&lt;br&gt;
+Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Haftung für Links&lt;/strong&gt;&lt;br&gt;
+Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.&lt;br&gt;
+Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.&lt;br&gt;
+Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Urheberrecht&lt;/strong&gt;
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht.&lt;br&gt;
+Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.&lt;br&gt;
+Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.&lt;br&gt;
+Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet.&lt;br&gt;
+Insbesondere werden Inhalte Dritter als solche gekennzeichnet.&lt;br&gt;
+Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis.&lt;br&gt;
+Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/default/legal/datenschutz&#34; &gt;Datenschutzerklärung&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
